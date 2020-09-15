@@ -38,3 +38,13 @@ main {
   width: 100vw;
   flex-direction: column;
 }
+.item {
+  margin: 5px;
+  height: 100px;
+  width: 100px;
+  background-color: #f3c5e0;
+}
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}

@@ -21,3 +21,9 @@ footer {
   height: 100%;
   width: 100%;
 }
+header {
+  background-color: #FBFFF4;
+  height: 80px;
+  width: 100%;
+  flex-shrink: 0;
+}
